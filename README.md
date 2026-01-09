@@ -1,3 +1,5 @@
+Note: Direct links to the most complex Python and database-related scripts are provided below for easy review.
+
 AccuKnox AI/ML Assignment
 
 This repository contains my submission for the Trainee AI/ML position at AccuKnox.
@@ -91,6 +93,27 @@ SQLite databases
 JSON and CSV data handling
 
 Basic data visualization
+
+
+Most Complex Python Code
+
+Link:
+
+https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/student_scores_visualization.py
+
+
+Description:
+This script handles reading data from a JSON file, calculating average student scores, and visualizing the results using a bar chart. I focused on writing clear logic so the data flow is easy to understand.
+
+Most Complex Database Code
+
+Link:
+
+https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/api_to_sqlite.py
+
+
+Description:
+This script fetches data from a REST API, creates a SQLite database table, inserts records using parameterized queries, and retrieves the stored data for verification.
 
 All code was written and tested by me as part of my learning process.
 
