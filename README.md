@@ -81,11 +81,21 @@ My latest resume is included for reference.
 
 Complex Code References
 
-Most complex Python code:
-student_scores_visualization.py
+Most Complex Python Code
 
-Most complex database-related code:
-api_to_sqlite.py
+Link:
+
+https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/student_scores_visualization.py
+
+Description: This script handles reading data from a JSON file, calculating average student scores, and visualizing the results using a bar chart. I focused on writing clear logic so the data flow is easy to understand.
+
+Most Complex Database Code
+
+Link:
+
+https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/api_to_sqlite.py
+
+Description: This script fetches data from a REST API, creates a SQLite database table, inserts records using parameterized queries, and retrieves the stored data for verification.
 
 (Links can be accessed directly from this repository.)
 
