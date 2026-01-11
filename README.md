@@ -1,124 +1,95 @@
-Note: Direct links to the most complex Python and database-related scripts are provided below for easy review.
-
 AccuKnox AI/ML Assignment
 
-This repository contains my submission for the Trainee AI/ML position at AccuKnox.
-All tasks are implemented using Python with a focus on simplicity, clarity, and correctness.
-The goal of this assignment was to demonstrate my understanding of Python programming, basic databases, and data handling.
+Name: Vishal Kumar
 
-📁 Folder Structure
+Overview
+
+This repository contains my submission for the Trainee AI/ML position at AccuKnox.
+The assignment focuses on Python programming, database handling, data processing, and my understanding of AI/ML concepts.
+All solutions are implemented as part of my learning process and reflect my current skill level.
+
+Repository Structure
 accuknox-ai-ml-assignment/
 │
 ├── Assignment-1/
 │   ├── api_to_sqlite.py
-│   ├── csv_to_sqlite.py
 │   ├── student_scores_visualization.py
-│   ├── students.json
-│   └── users.csv
+│   ├── csv_to_sqlite.py
+│   └── data/
+│       ├── users.csv
+│       └── students.json
+│
+├── Assignment-2/
+│   └── Assignment2_Vishal_Kumar.pdf
+│
+├── Resume/
+│   └── Vishal_Kumar_Resume.pdf
 │
 └── README.md
 
-
-All Assignment-1 related scripts and data files are kept inside the Assignment-1 folder for better organization.
-
-Assignment 1 – Description
+Assignment 1 – Python & Database Tasks
 1. API Data Retrieval and Storage
-
-File: api_to_sqlite.py
 
 Fetches data from a public REST API
 
-Extracts required fields from JSON
+Stores the data in a local SQLite database
 
-Stores the data into a local SQLite database
+Displays stored records using Python
 
-Reads and prints the stored data to verify insertion
+Skills used: Python, Requests, SQLite
 
-This script helped me understand how API data can be stored locally for further processing.
+2. Data Processing and Visualization
 
-2. Student Scores Processing and Visualization
+Processes student score data from JSON/API
 
-File: student_scores_visualization.py
+Calculates average scores
 
-Reads student score data from a JSON file
+Visualizes results using a bar chart
 
-Calculates the average score
+Skills used: Python, Pandas, Matplotlib
 
-Visualizes the scores using a bar chart
-
-This task demonstrates basic data processing and visualization using Python.
-
-3. CSV Data Import to SQLite
-
-File: csv_to_sqlite.py
+3. CSV Data Import to Database
 
 Reads user data from a CSV file
 
-Creates a SQLite table
+Inserts records into a SQLite database
 
-Inserts CSV records into the database
+Verifies stored data
 
-Prints stored data for verification
+Skills used: Python, CSV handling, SQLite
 
-This script shows how CSV data can be integrated with a database.
+Assignment 2 – Conceptual Understanding
 
-▶️ How to Run the Code
+Assignment 2 contains my responses on:
 
-Make sure Python is installed
+Self-rating in AI, ML, Deep Learning, and LLMs
 
-Install required libraries (if not already installed):
+High-level architecture of an LLM-based chatbot
 
-pip install requests matplotlib
+Understanding of vector databases and selection for a use case
 
+The responses are based on my current learning and research.
+Figures, tables, and examples are used where helpful.
 
-Navigate to the Assignment-1 folder:
+📄 File: Assignment-2/Assignment2_Vishal_Kumar.pdf
 
-cd Assignment-1
+Resume
 
+My latest resume is included for reference.
 
-Run any script:
+📄 File: Resume/Vishal_Kumar_Resume.pdf
 
-python api_to_sqlite.py
+Complex Code References
 
-🧠 Learning Outcome
+Most complex Python code:
+student_scores_visualization.py
 
-Through this assignment, I improved my understanding of:
+Most complex database-related code:
+api_to_sqlite.py
 
-Python scripting
+(Links can be accessed directly from this repository.)
 
-REST APIs
+Final Note
 
-SQLite databases
-
-JSON and CSV data handling
-
-Basic data visualization
-
-
-Most Complex Python Code
-
-Link:
-
-https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/student_scores_visualization.py
-
-
-Description:
-This script handles reading data from a JSON file, calculating average student scores, and visualizing the results using a bar chart. I focused on writing clear logic so the data flow is easy to understand.
-
-Most Complex Database Code
-
-Link:
-
-https://github.com/vishal24241/accuknox-ai-ml-assignment/blob/main/Assignment-1/api_to_sqlite.py
-
-
-Description:
-This script fetches data from a REST API, creates a SQLite database table, inserts records using parameterized queries, and retrieves the stored data for verification.
-
-All code was written and tested by me as part of my learning process.
-
-👤 Author:-
-
-Vishal Kumar
-MCA Student
-Aspiring AI/ML Engineer
+This assignment represents my honest effort and learning approach.
+I am currently learning AI and ML concepts and continuously improving my skills through hands-on practice and projects.
