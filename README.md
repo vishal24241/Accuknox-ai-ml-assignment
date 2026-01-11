@@ -6,7 +6,8 @@ Overview
 
 This repository contains my submission for the Trainee AI/ML position at AccuKnox.
 The assignment focuses on Python programming, database handling, data processing, and my understanding of AI/ML concepts.
-All solutions are implemented as part of my learning process and reflect my current skill level.
+All solutions were implemented by me while learning Python, databases, and basic data analysis concepts, and reflect my current understanding.
+
 
 Repository Structure
 accuknox-ai-ml-assignment/
@@ -101,5 +102,5 @@ Description: This script fetches data from a REST API, creates a SQLite database
 
 Final Note
 
-This assignment represents my honest effort and learning approach.
-I am currently learning AI and ML concepts and continuously improving my skills through hands-on practice and projects.
+This assignment reflects my honest effort and the way I approach learning new technical concepts through practice.
+
