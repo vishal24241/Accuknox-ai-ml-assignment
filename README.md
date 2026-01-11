@@ -72,13 +72,13 @@ Understanding of vector databases and selection for a use case
 The responses are based on my current learning and research.
 Figures, tables, and examples are used where helpful.
 
-📄 File: Assignment-2/Assignment2_Vishal_Kumar.pdf
+https://github.com/vishal24241/Accuknox-ai-ml-assignment/tree/main/Assignment-2
 
 Resume
 
 My latest resume is included for reference.
 
-📄 File: Resume/Vishal_Kumar_Resume.pdf
+https://github.com/vishal24241/Accuknox-ai-ml-assignment/tree/main/Resume
 
 Complex Code References
 
