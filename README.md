@@ -39,7 +39,7 @@ Displays stored records using Python
 
 Skills used: Python, Requests, SQLite
 
-2. Data Processing and Visualization
+2. Data Processing and Visualization.
 
 Processes student score data from JSON/API
 
